@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Grabber.cpp">
+      <Filter>Grabber</Filter>
+    </ClCompile>
+    <ClCompile Include="DatasetCollector.cpp">
+      <Filter>DatasetCollector</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageRenderer.cpp">
+      <Filter>Visualization</Filter>
+    </ClCompile>
+    <ClCompile Include="vec3.cpp">
+      <Filter>Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="ir_grabber.cpp">
+      <Filter>Grabber\ThermalGrabber</Filter>
+    </ClCompile>
+    <ClCompile Include="streamer_client.cpp">
+      <Filter>Grabber\ThermalGrabber</Filter>
+    </ClCompile>
+    <ClCompile Include="Clustering.cpp">
+      <Filter>Clustering</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Grabber.h">
+      <Filter>Grabber</Filter>
+    </ClInclude>
+    <ClInclude Include="DatasetCollector.h">
+      <Filter>DatasetCollector</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageRenderer.h">
+      <Filter>Visualization</Filter>
+    </ClInclude>
+    <ClInclude Include="vec3.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="ir_grabber.h">
+      <Filter>Grabber\ThermalGrabber</Filter>
+    </ClInclude>
+    <ClInclude Include="streamer.h">
+      <Filter>Grabber\ThermalGrabber</Filter>
+    </ClInclude>
+    <ClInclude Include="Clustering.h">
+      <Filter>Clustering</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Grabber">
+      <UniqueIdentifier>{ab5b6750-dfe4-434a-9150-56523a20eff7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DatasetCollector">
+      <UniqueIdentifier>{195c65e6-d356-4a3d-b980-5de046c9b908}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{d334461f-86e4-41e4-a421-0784f14a5252}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Visualization">
+      <UniqueIdentifier>{1a98086a-8de2-4247-941e-1d25e6cebcb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Grabber\ThermalGrabber">
+      <UniqueIdentifier>{cc6be14a-9d18-43f0-9b51-e3a70b8cfbf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Clustering">
+      <UniqueIdentifier>{98342c2d-c974-457d-8be1-7d1bc713bfae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="app.ico">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ColorBasics.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
