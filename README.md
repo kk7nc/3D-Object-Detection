@@ -35,6 +35,7 @@ a) Kinect color frame (RGB) with resolution of 1920 X 1080; b) Kinect depth fram
 
 
 ![Object_Detection](http://kowsari.net/onewebstatic/OBJECT%20(2).jpg)
+
 Results  of  segmenting  scene  objects  using  proposed  algorithm;a)  Segmentation  of  small  duck;b)  Segmentation  anddetection  of  piece  of  red  paper;c)  Object  detection  of  a  box;d)  Shows  handy  bag;e)  Segmentation  of  box,  the  border  of  thebox  has  lower  weight  and  it  will  be  completed  after  several  iteration;f)  Representation  of  moving  object,  segmentation  of  aperson;g) Segmentation of basketball.
 
 
