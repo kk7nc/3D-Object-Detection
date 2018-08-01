@@ -1,5 +1,13 @@
 # Weighted Unsupervised Learning for 3D Object Detection
 
+[![DOI](https://img.shields.io/badge/DOI-10.14569/IJACSA.2016.070180-blue.svg?style=flat)](http://dx.doi.org/10.14569/IJACSA.2016.070180)
+[![DOI](https://img.shields.io/badge/Visual%20Studio-C%2B%2B-red.svg)](https://visualstudio.microsoft.com/)
+[![L](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/kk7nc/Text_Classification/blob/master/LICENSE)
+[![twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Weighted%20Unsupervised%20Learning%20for%203D%20Object%20Detection%0aGitHub:&url=https://github.com/kk7nc/3D-Object-Detection&hashtags=3D,ObjectDetection,unsupervised,MachineLearning,Clustering,RGBD,Computer_Vision,Kinect)
+
+
+
+
 Referenced paper : [Weighted Unsupervised Learning for 3D Object Detection](https://arxiv.org/pdf/1602.05920.pdf)
 
 
